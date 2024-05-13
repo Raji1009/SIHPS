@@ -15,7 +15,7 @@ Ministry of Environment
 To provide users with a convenient way to locate nearby e-waste recycling facilities where they can responsibly dispose of their electronic devices.
 
 ## Proposed Solution / Architecture Diagram
-![output](<WhatsApp Image 2024-05-13 at 13.43.24_9bbc5d33.jpg>)
+![alt text](diagram.jpg)
 
 
 ## Use Cases
